@@ -78,6 +78,8 @@ Chat Loop: An interactive loop where users can ask queries and receive responses
 output: Image
 
 Contact For any questions or feedback, feel free to reach out to:
+output:
+<img width="631" height="99" alt="Image" src="https://github.com/user-attachments/assets/eb3b9583-98e3-4a53-a31b-0247511eed7a" />
 
 A.GANESH
 Company: CODTECH IT SOLUTIONS
